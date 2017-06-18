@@ -1,4 +1,4 @@
-# Liga Zagadek
+# WallBay
 The program searches WalMart and eBay for a product that is entered by a user in the selected category.
 The result is a list of results for both online stores and the cheapest products with a link to the shop.
  
